@@ -1,4 +1,4 @@
-# 🛡️ Türkiye İçin İmei Oluşturma Pro — Mnk's V4 (Anti-Crack Pro)
+# 🛡️ Türkiye İçin İmei Oluşturma Pro — Mnk's V4 ()
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/license-Unlicense-green?style=for-the-badge)
